@@ -14,12 +14,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![]()
+![](https://github.com/Web-dev-rafik/social-links-profile/blob/main/screenshot.png)
 
 ### Links
 
-- Solution URL: [Code on Github]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Code on Github](https://github.com/Web-dev-rafik/social-links-profile)
+- Live Site URL: [Live site URL](https://web-dev-rafik.github.io/social-links-profile/)
 
 ## My process
 
